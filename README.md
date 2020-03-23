@@ -11,5 +11,5 @@ I graphed a few things and decided to work on fitting data to a sigmoid since th
 
 I haven't tried any learning yet, but just using the modified sigmoid and its derivative we can see some interesting results.  
 
-The next stepp ois to try to learn the parameters.  since this data will be updated daily, we should be able to learn these results for all the collected data and refine them as time goes on.
+The next step is to try to learn the parameters.  since this data will be updated daily, we should be able to learn these results for all the collected data and refine them as time goes on.
 
